@@ -5,7 +5,7 @@ with ARM Cortex-M4F Based MCU but should work for almost any other ARM.
 Codes does almost nothing. It is just a saved template for project.
 
 # Compilation #
-Remember to set correct paths to compilers and linker in CMakelists.txt file in the main directory of the project.
+Remember to set correct paths to compilers and linker in CMakeLists.txt file in the main directory of the project.
 
 ```
 #!bash
