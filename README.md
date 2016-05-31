@@ -8,8 +8,6 @@ Codes does almost nothing. It is just a saved template for project.
 Remember to set correct paths to compilers and linker in CMakeLists.txt file in the main directory of the project.
 
 ```
-#!bash
-
 git clone git@bitbucket.org:Kajtek/lighter.git
 mkdir lighter/build
 cd lighter/build
