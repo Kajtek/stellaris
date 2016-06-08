@@ -1,1 +1,2 @@
-set(SOURCE_FILES ${SOURCE_FILES} led.c)
+set(SOURCE_FILES led.c)
+add_library(led ${SOURCE_FILES})
